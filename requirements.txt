@@ -1,0 +1,5 @@
+simsopt
+ipywidgets
+numpy
+matplotlib
+
